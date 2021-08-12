@@ -1,9 +1,9 @@
-# portfolio
+# Portfolio
 Developer portfolio
 
-## homework
+## Homework
 
-task control
+Task control
 
 ## Icons
 :package: new function
