@@ -3,7 +3,8 @@ Developer portfolio
 
 ## homework
 
-controle das tarefas
+task control
+
 ## Icons
 :package: new function
 :up: update
